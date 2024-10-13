@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/krzyzanowskim/OpenSSL-Package.git",
       "state" : {
-        "revision" : "fdc133911d1e26f59838763906a6486d65febfa6",
-        "version" : "3.1.5004"
+        "revision" : "f59c0d3a18ab32f3be7e6d8e6e172ec938cf9cd0",
+        "version" : "3.1.6000"
       }
     },
     {
